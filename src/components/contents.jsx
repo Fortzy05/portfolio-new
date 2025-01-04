@@ -149,32 +149,32 @@ const Links = [
   },
   {
     icons: FaEnvelope,
-    url: "mailto:amuturi01@gmail.com",
+    url: "mailto:omorodion.fortune@gmail.com",
     name: "mail",
   },
   {
     icons: FaInstagram,
-    url: "https://www.instagram.com/a0x001/",
+    url: "https://www.instagram.com/amazing4tune/",
     name: "Instagram",
   },
   {
     icons: FaGithubSquare,
-    url: "https://github.com/Allan-1",
+    url: "https://github.com/fortzy05",
     name: "Github",
   },
   {
     icons: FaLinkedin,
-    url: "https://www.linkedin.com/in/allan-maina/",
+    url: "https://www.linkedin.com/in/fortune-omorodion/",
     name: "Linkedin",
   },
   {
     icons: FaTwitterSquare,
-    url: "https://twitter.com/a0x001",
+    url: "https://twitter.com/OmoFortunes",
     name: "Twitter",
   },
   {
     icons: FaMedium,
-    url: "https://medium.com/@allanmuturi",
+    url: "https://medium.com/@fortzy05",
     name: "Medium",
   },
 ];
