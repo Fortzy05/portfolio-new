@@ -72,23 +72,23 @@ const Experiences = [
     position: "Frontend Developer",
     dates: "April 2024 - Date",
     description:
-      "I worked as a Frontend developer focusing mainly on web development",
+      "Develop and maintain web applications using React.js, TailwindCSS, and other modern Frontend Frameworks to create dynamic and responsive user interfaces.",
   },
   {
     company: "Edline Technologies Limited",
     image: image,
-    position: "Software Developer",
+    position: "Frontend Engineer",
     dates: "September 2022 - Date",
     description:
-      "I worked as a software developer focusing mainly on mobile development but also involved in backend development in Django and Flask.",
+      "I Developed and maintained web applications using React.js to create dynamic and responsive user interfaces.",
   },
   {
     company: "Nebulous Solutions Limited",
     image: image,
-    position: "Mobile Developer",
+    position: "Software Engineer",
     dates: "April 2022 - August 2022",
     description:
-      "I worked as a mobile developer designing mobile application and building both crossplatform and native mobile applications",
+      "As E-commerce Manager at Nebulous Solutions, I developed a responsive e-commerce platform using modern web technologies, optimized user experience through A/B testing (15% conversion increase), and implemented SEO strategies to boost traffic and revenue by 25%.",
   },
   {
     company: "Priceless IT solutions",
