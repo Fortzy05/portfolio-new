@@ -1,7 +1,16 @@
-import React from 'react'
+import React from "react";
+import styles from "../../styles/codes.module.css";
 
-export default function code() {
+function Code({ projimg, projtitle, projdesc }) {
   return (
-    <div>code</div>
-  )
+    <div className={styles.code}>
+      <div className={styles.codeimg}>
+        <img src={projimg} alt={projtitle} />
+      </div>
+      <div className={styles.codetitle}>{projtitle}</div>
+      <div className={styles.codedesc}>{projdesc}</div>
+    </div>
+  );
 }
+
+export default Code;

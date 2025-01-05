@@ -1,5 +1,5 @@
 import React from "react";
-import Allan from "../images/allan.jpg";
+import fortune from "../images/fortune.jpg";
 import styles from "../../styles/contacts.module.css";
 import { Links } from "../contents";
 import { VscLocation } from "react-icons/vsc";
@@ -13,7 +13,7 @@ function Contact() {
           Discuss A Project or Just Want To Say Hi ? My DM's are always OPEN
         </div>
         <div className={styles.location}>
-          <VscLocation /> Nairobi, Kenya
+          <VscLocation /> Lagos, Nigeria
         </div>
         <div>
           <ul>
@@ -35,7 +35,7 @@ function Contact() {
         </div>
       </div>
       <div className={styles.imageside}>
-        <img src={Allan} alt="Allan" className={styles.cimage} />
+        <img src={fortune} alt="Fortune" className={styles.cimage} />
       </div>
     </div>
   );

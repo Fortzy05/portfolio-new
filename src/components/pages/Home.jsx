@@ -23,7 +23,7 @@ function Home() {
           <div className={styles.text}>
             I'm passionate Full Stack web developer having an experience of web
             applications with Nodejs, React.js, Next.js and Mobile Development
-            development on Flutter, Dart and Kotlin
+            development on React Native.
           </div>
         </div>
         <div className={styles.button}>

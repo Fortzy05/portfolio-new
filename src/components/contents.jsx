@@ -67,7 +67,15 @@ const CloudContent = [
 
 const Experiences = [
   {
-    company: "Bharathbrands PVT Limited",
+    company: "Kindlegate Foundation(Volunteer)",
+    image: image,
+    position: "Frontend Developer",
+    dates: "April 2024 - Date",
+    description:
+      "I worked as a Frontend developer focusing mainly on web development",
+  },
+  {
+    company: "Edline Technologies Limited",
     image: image,
     position: "Software Developer",
     dates: "September 2022 - Date",
@@ -75,7 +83,7 @@ const Experiences = [
       "I worked as a software developer focusing mainly on mobile development but also involved in backend development in Django and Flask.",
   },
   {
-    company: "Priceless IT solutions",
+    company: "Nebulous Solutions Limited",
     image: image,
     position: "Mobile Developer",
     dates: "April 2022 - August 2022",
