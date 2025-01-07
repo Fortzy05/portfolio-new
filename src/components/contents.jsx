@@ -41,7 +41,7 @@ const Mobiledevelopment = [
     content: "Building crossplatform applications in flutter and dart",
   },
   {
-    content: "Building native android applications in kotlin and java",
+    content: "Building native android applications in React Native",
   },
   {
     content: "Designing mobile applications UI using adobe XD",
@@ -89,14 +89,6 @@ const Experiences = [
     dates: "April 2022 - August 2022",
     description:
       "As E-commerce Manager at Nebulous Solutions, I developed a responsive e-commerce platform using modern web technologies, optimized user experience through A/B testing (15% conversion increase), and implemented SEO strategies to boost traffic and revenue by 25%.",
-  },
-  {
-    company: "Priceless IT solutions",
-    image: image,
-    position: "Frontend Developer",
-    dates: "August 2021 - March 2022 ",
-    description:
-      "I worked as frontend web developer to design web based admin dashboards for mulitple apps using React, Bootstrap, jQuery, Chart.js and some other libraries.",
   },
 ];
 
