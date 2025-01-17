@@ -17,7 +17,7 @@ function Home() {
     <div
       className={`${styles.home} flex text-[#fff] justify-between z-0 min-h-screen `}
     >
-      <div className={`${styles.main} mt-[20vh] ml-[5rem] z-[80]`}>
+      <div className={`${styles.main} my-0 mx-[2rem] md:mt-[20vh] md:ml-[5rem] z-[80]`}>
         <div className={`${styles.intro} text-[3rem] text-white mb-[1rem] `}>
           <div className={styles.text}>Hi I'm Fortune</div>
         </div>
