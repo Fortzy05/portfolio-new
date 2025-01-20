@@ -4,7 +4,7 @@ import { FaTimes } from "react-icons/fa";
 import styles from "../../styles/modal.module.css";
 import { Links } from "../contents";
 
-function Navmodal() {
+function Navmodal(props) {
   // Render nothing if the "show" prop is false
   if (!props.show) {
     return null;
@@ -27,7 +27,7 @@ function Navmodal() {
         </div>
 
         <div className="footer">
-          <button className={styles.closebtn} onClick={this.props.onClose}>
+          <button className={styles.closebtn} onClick={props.onClose}>
             <FaTimes />
           </button>
         </div>
