@@ -63,13 +63,18 @@ img {
   .pbox img {
     width: 350px;
   }
+  .title{
+    text-align: center;
+  }
   .pdesc {
+    
     line-height: 1;
     margin-bottom: 1rem;
   }
   .desc {
-    text-align: left;
+    text-align: center;
     padding: 0.5rem;
+    width: 280px;
   }
   .link {
     text-align: left;

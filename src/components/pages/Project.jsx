@@ -11,7 +11,7 @@ function Project() {
       </div>
       <div className={styles.projects}>
         {PersonalProjects.map((proj, idx) => (
-          <div key={idx} className={styles.pbox}>
+          <div key={idx} className={`styles.pbox`}>
             <img src={proj.images} alt={proj.name} />
             <div className={styles.pname}>{proj.name}</div>
             <div className={styles.desc}>{proj.description}</div>
