@@ -19,16 +19,16 @@
   gap: 25px;
 
 }
-.pbox {
+/* .pbox {
   width: 550px;
   box-shadow: 1px 3px 4px #4a5466;
   margin-bottom: 2rem;
-}
-img {
+} */
+/* img {
   object-fit: contain;
   width: 550px;
   text-align: center;
-}
+} */
 .pname,
 .desc {
   text-align: center;
@@ -56,13 +56,13 @@ img {
   background-color: #219b66;
 }
 @media screen and (max-width: 600px) {
-  .pbox {
+  
     /* width: 350px; */
-    box-shadow: 1px 5px 5px #4a5466;
-  }
-  .pbox img {
+    /* box-shadow: 1px 5px 5px #4a5466; */
+  
+  /* .pbox img {
     width: 350px;
-  }
+  } */
   .title{
     text-align: center;
   }
@@ -83,5 +83,6 @@ img {
     display: grid;
     grid-template-columns: repeat(1, auto);
     gap: 25px;
+    
   }
 }
