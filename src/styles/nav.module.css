@@ -6,7 +6,7 @@
   padding: 0.5rem 1.3rem;
   color: #ffff;
   font-size: 1.5rem;
-  background-image: url('../components/images/Moon.svg');
+  /* background-image: url('../components/images/Moon.svg'); */
 }
 ul {
   list-style: none;
@@ -20,7 +20,7 @@ li,
 }
 .logo {
   font-family: 'Dancing Script', cursive;
-  padding-top: 1.2rem;
+  /* padding-top: 1.2rem; */
 }
 .menu {
   display: flex;

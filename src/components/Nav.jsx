@@ -10,7 +10,7 @@ function Nav() {
   const toggle = () => setIsOpen(!isOpen);
 
   return (
-    <div className={styles.navbar}>
+    <div className="flex justify-between py-[0.5rem] px-[1.3rem] text-white text-[1.5rem] bg-[url('components/images/Moon.svg')] items-center">
       <div className={styles.logo}>
         <a href="/">{"<Fortune/>"}</a>
       </div>
