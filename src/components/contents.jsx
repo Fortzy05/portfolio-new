@@ -1,5 +1,5 @@
 import image from "./images/pricelessit.png";
-import movies from "./images/moviedb.png";
+import movies from "./images/Disney Clone.png";
 import oyawi from "./images/oyawiorgs.png";
 import chatcord from "./images/chatcord.png";
 import ipadress from "./images/ipaddress.png";
@@ -94,38 +94,38 @@ const Experiences = [
 
 const PersonalProjects = [
   {
-    name: "Movies Db",
+    name: "Disney Clone",
     images: movies,
     description: "A movie listing app made with Reactjs and tmdb api.",
-    link: "https://allanmovies.vercel.app/",
+    link: "https://disney-2-0-clone-nextjs-14.vercel.app/",
   },
   {
     name: "Shopit",
     images: strapi,
     description:
       "An Ecommerce website built using Strapi and NextJs and GraphQl",
-    link: "https://github.com/Allan-1/shopit",
+    link: "https://hng-stage2-task-kappa.vercel.app/",
   },
   {
     name: "Meety",
     images: meety,
     description:
       "A google clone app made with webrtc and socket.io to video call.",
-    link: "https://github.com/Allan-1/Google-meet-clone",
+    link: "https://cause-shop-v-1-0.vercel.app/",
   },
   {
     name: "EstalTech",
     images: estaltech,
     description:
       "An ecommerce store to sell elecronics built using php and wordpress",
-    link: "https://estaltech.com/",
+    link: "https://product-list-with-cart-ruby.vercel.app/",
   },
   {
     name: "Oyawi Organization",
     images: oyawi,
     description:
       "A non-governmental organization website built with wordpress and php",
-    link: "https://oyawi.org/",
+    link: "https://hrm-dashboard-mini-pi.vercel.app/",
   },
   {
     name: "Ip Adress Tracker",
@@ -137,7 +137,7 @@ const PersonalProjects = [
     name: "Chatcord",
     images: chatcord,
     description: "A chatting room created using websockets and javascript",
-    link: "https://allanchat.herokuapp.com",
+    link: "https://linkedin-clone-2-0-zycu.vercel.app/",
   },
 ];
 

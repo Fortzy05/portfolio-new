@@ -16,7 +16,7 @@ function Project() {
             className={`{styles.pbox}  w-[350px] text-center md:w-[460px] shadow-sm  shadow-[#4a5466] mb-[2rem]  `}
           >
             <img
-              className="object-contain w-[350px]  md:w-[460px] text-center"
+              className="object-contain w-[460px]  md:w-[460px] text-center"
               src={proj.images}
               alt={proj.name}
             />
